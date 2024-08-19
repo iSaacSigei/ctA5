@@ -27,7 +27,6 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem 'psych', '~> 4.0'
 
-gem 'sqlite3', '~> 1.4'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
